@@ -1,0 +1,17 @@
+SOLID principles 
+    - Five design principles in Object Oriented Pragramming
+    - Designed for Code maintainability, scalability and robustness
+
+
+S - Single Responsibility principle
+O - Open / Close principle
+L - Liskov substitution principle
+I - Interface segregation principle
+D - Depencency inversion principle
+
+Single Responsibility Principle:
+    - A Class should have only one job to do not more than that
+    Ex: If there is a class called product, then order must be in a seprate class
+
+Open Close Principle:
+    - This principle state that a class should be open for extension but closed for modification
